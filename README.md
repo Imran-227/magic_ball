@@ -1,6 +1,7 @@
 # magic_ball
 
 A new Flutter project.
+![Screenshot_20231029-212151](https://github.com/Imran-227/magic_ball/assets/128098964/e27f7e72-29aa-4248-af69-d4bfbefe348e)
 
 ## Getting Started
 
